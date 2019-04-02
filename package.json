@@ -1,0 +1,9 @@
+{
+  "name": "test-project-please-ignore",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "index.js",
+  "repository": "git@github.com:GabrielOarga/test-project-please-ignore.git",
+  "author": "GabrielOarga <13384992+GabrielOarga@users.noreply.github.com>",
+  "license": "MIT"
+}
